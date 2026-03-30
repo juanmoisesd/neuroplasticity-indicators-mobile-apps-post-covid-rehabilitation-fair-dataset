@@ -1,0 +1,37 @@
+{
+  "title": "Neuroplasticity Indicators Mobile Apps Post COVID-19 Rehabilitation FAIR Dataset",
+  "description": "Open research dataset: Neuroplasticity Indicators Mobile Apps Post COVID-19 Rehabilitation FAIR Dataset. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "neuroscience",
+    "neuroplasticity",
+    "indicators",
+    "COVID-19",
+    "rehabilitation",
+    "dataset",
+    "open data",
+    "research"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/neuroplasticity-indicators-mobile-apps-post-covid-rehabilitation-fair-dataset",
+      "scheme": "url"
+    }
+  ]
+}
